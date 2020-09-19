@@ -1,6 +1,8 @@
 # alliance-topology
 Alliance Stake Pools - Peers
 
+Download `mainnet-topology.json` to your relay and don't forget to add your block producer IP :)
+
 ## Pool Relays
 
 * CryptoAware Stake Pool [[AWARE]](https://cryptoaware.io/cardano/)
