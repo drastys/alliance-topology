@@ -1,0 +1,49 @@
+{
+  "Producers": [
+    {
+      "addr": "cardano-relay.cryptoaware.io",
+      "port": 6000,
+      "valency": 1
+    },
+    {
+      "addr": "cardano-relay1.cryptoaware.io",
+      "port": 6000,
+      "valency": 1
+    },
+    {
+      "addr": "95.217.120.208",
+      "port": 3001,
+      "valency": 1
+    },
+    {
+      "addr": "116.202.131.185",
+      "port": 3002,
+      "valency": 1
+    },
+    {
+      "addr": "134.209.80.70",
+      "port": 3001,
+      "valency": 1
+    },
+    {
+      "addr": "167.71.163.48",
+      "port": 3002,
+      "valency": 1
+    },
+    {
+      "addr": "adapool.crazycareergames.com",
+      "port": 4001,
+      "valency": 1
+    },
+    {
+      "addr": "adapool.crazycareergames.com",
+      "port": 4002,
+      "valency": 1
+    },
+    {
+      "addr": "relays-new.cardano-mainnet.iohk.io",
+      "port": 3001,
+      "valency": 2
+    }
+  ]
+}
