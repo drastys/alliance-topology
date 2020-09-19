@@ -11,3 +11,4 @@ Download `mainnet-topology.json` to your relay and don't forget to add your bloc
 * Crazy Career Games [[VEGAS]](https://www.crazycareergames.com/)
 * Crazy Career Games [[VEGAS]](https://www.crazycareergames.com/)
 * Greg [VOLCY] ADA STAKEPOOL [[VOLCY]](https://twitter.com/gvolcy/)
+* Buddha Pool [[BUDHA]](https://buddhapool.tech/)
