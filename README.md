@@ -9,3 +9,5 @@ Download `mainnet-topology.json` to your relay and don't forget to add your bloc
 * ArubaStakePool [[ARUBA]](https://arubastakepool.com/)
 * Moving Average Stake Pool [[MASP]](https://masp-pool.nl/)
 * Crazy Career Games [[VEGAS]](https://www.crazycareergames.com/)
+* Crazy Career Games [[VEGAS]](https://www.crazycareergames.com/)
+* Greg [VOLCY] ADA STAKEPOOL [[VOLCY]](https://twitter.com/gvolcy/)
